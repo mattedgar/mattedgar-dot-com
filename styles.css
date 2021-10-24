@@ -1,0 +1,12 @@
+body {
+  background-color: LightGreen;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 150%;
+}
+
+.content {
+  padding: 2em;
+  margin: 6em 2em 6em 2em;
+  background-color: white;
+  max-width: 650px;
+}
