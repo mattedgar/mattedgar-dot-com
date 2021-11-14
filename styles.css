@@ -1,6 +1,6 @@
 body {
-  background: rgb(72,115,72);
-  background: linear-gradient(119deg, rgba(72,115,72,1) 0%, rgba(144,238,144,1) 100%);
+  background: rgb(127,208,127);
+  background: linear-gradient(110deg, rgba(127,208,127,1) 0%, rgba(144,238,144,1) 25%, rgba(144,238,144,1) 100%);
   font-family: Georgia, "Times New Roman", serif;
   font-size: 150%;
 }
