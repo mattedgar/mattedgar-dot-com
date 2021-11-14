@@ -10,3 +10,7 @@ body {
   background-color: white;
   max-width: 800px;
 }
+
+.bullet-link {
+  min-height: 48px;
+}
